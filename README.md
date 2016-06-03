@@ -1,6 +1,6 @@
 ## Description
 
-LOLC Insurance mobile app back-end REST service and proxy service for SP solutions SOAP services.
+Mobile app back-end REST service and proxy service for SOAP services.
 
 ## Functions
 
